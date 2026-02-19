@@ -3,8 +3,8 @@ name: steal-like-an-artist
 description: Transform the practice of learning from influences into true creative theft—absorbing and transforming rather than merely copying.
 license: MIT
 metadata:
-  version: 1.0.5052
   author: sethmblack
+  version: 1.0.5053
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - steal-like-an-artist
